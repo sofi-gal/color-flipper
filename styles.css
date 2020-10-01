@@ -33,6 +33,7 @@ ul{
 	display: flex;
 	justify-content: space-between;
 	margin: auto;
+        width: 50%;
 }
 
 li{
@@ -45,7 +46,7 @@ a{
 	color: black;
         margin: auto;
         justify-content: center;
-        width: auto;
+        width: 30%;
 }
 
 .active{
