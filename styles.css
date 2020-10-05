@@ -33,7 +33,7 @@ ul{
 	display: flex;
 	justify-content: space-between;
 	margin: auto;
-        width: 40%;
+        width: auto;
 }
 
 li{
