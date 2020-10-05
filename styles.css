@@ -33,6 +33,7 @@ ul{
 	display: flex;
 	justify-content: space-between;
 	margin: auto;
+	padding-right: 1rem;
 	flex: 1 2 30rem;
 }
 
@@ -46,7 +47,7 @@ a{
 	text-decoration: none;
 	color: black;
         margin: auto;
-        justify-content: center;
+	padding: 0rem 1rem;
         flex: 1 1 20rem;
 }
 
